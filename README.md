@@ -26,3 +26,25 @@ The task focuses on **loading, slicing, indexing, and filtering data** using the
 - Libraries:  
   ```bash
   pip install pandas
+
+## A. Positional and Label-Based Slicing
+
+<img width="1718" height="1344" alt="image" src="https://github.com/user-attachments/assets/417b1172-dbd8-473e-bb2e-1fcb79b0adec" />
+
+This exercise shows how to use iloc indexing for row selection and label-based column access to extract specific data fields, reinforcing the difference between positional and label-based slicing.
+
+##B. Model Lookup
+
+<img width="1700" height="600" alt="image" src="https://github.com/user-attachments/assets/550e8ede-ec33-45ec-aceb-7bc4d4ba5bb1" />
+
+This part demonstrates how Boolean indexing can filter rows based on conditions, allowing retrieval of complete or partial records without relying on hard-coded row numbers.
+
+##C. Multi-Model Subsetting
+
+<img width="1694" height="700" alt="image" src="https://github.com/user-attachments/assets/8fb0896d-fa04-435d-aca8-a2afb2351461" />
+
+Learning: This task highlights how to subset multiple records using isin() method and column filtering, ensuring precise extraction of targeted data while preserving dataset integrity.
+
+---
+
+
