@@ -18,6 +18,8 @@ The task focuses on **loading, slicing, indexing, and filtering data** using the
 - `Experiment3.ipynb` → Jupyter/Colab notebook with solutions  
 - `README.md` → Documentation for the project  
 
+<img width="425" height="451" alt="image" src="https://github.com/user-attachments/assets/961aff9f-da59-44f7-8c03-2474e63ab8d6" />
+
 ---
 
 ## 🛠️ Requirements
